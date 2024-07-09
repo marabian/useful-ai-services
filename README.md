@@ -10,7 +10,7 @@
 * [LumaLabs](https://lumalabs.ai/dream-machine)
 * [Hedra](https://www.hedra.com/)
 
-## Voice
+## Voice Generation
 
 * [ElevenLabs](https://elevenlabs.io/)
 * [Udio](https://www.udio.com/)
